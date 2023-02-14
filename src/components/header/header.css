@@ -52,7 +52,7 @@ header {
     padding: 4rem 1.5rem 1.5rem 1.5rem;
 }
 
-/*      SCROLL DOWN BUTTON      */
+/*      SCROLL DOWN BUTTON      */ 
 
 .scroll__down {
     position: absolute;
@@ -61,4 +61,24 @@ header {
     transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;
+}
+
+/*      MEDIA QUERIES (MEDIUM DEVICES - TABLETS)      */
+
+@media screen and (max-width: 1024px) {
+    header {
+        height: 68vh;
+    }
+}
+
+/*      MEDIA QUERIES (SMALL DEVICES - PHONES)      */
+
+@media screen and (max-width: 600px) {
+    header {
+        height: 100vh;
+    }
+
+    .header__socials, .scroll__down {
+         display: none;
+    }
 }
