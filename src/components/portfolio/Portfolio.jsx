@@ -16,8 +16,10 @@ const Portfolio = () => {
           </div>
           <div className="portfolio__item-image"></div>
           <h3>This is a portfolio item title</h3>
-          <a href="https://github.com/Vectari/serduszka-dwa" target="_blank" className='btn'>GitHub</a>
-          <a href="https://serduszkadwa.pl" target="_blank" className="btn btn-primary">Serduszka Dwa</a>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/Vectari/serduszka-dwa" target="_blank" className='btn'>GitHub</a>
+            <a href="https://serduszkadwa.pl" target="_blank" className="btn btn-primary">Serduszka Dwa</a>
+          </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
@@ -25,8 +27,10 @@ const Portfolio = () => {
           </div>
           <div className="portfolio__item-image"></div>
           <h3>This is a portfolio item title</h3>
-          <a href="https://github.com/Vectari/Jamming" target="_blank" className='btn'>GitHub</a>
-          <a href="https://vectari.github.io/Jamming/" target="_blank" className="btn btn-primary">Jammming</a>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/Vectari/Jamming" target="_blank" className='btn'>GitHub</a>
+            <a href="https://vectari.github.io/Jamming/" target="_blank" className="btn btn-primary">Live Demo</a>
+          </div>
         </article>
       </div>
     </section>
