@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my_website_react/static/css/main.a1c69b95.css",
+    "main.js": "/my_website_react/static/js/main.1f1819a3.js",
+    "static/media/jamming.png": "/my_website_react/static/media/jamming.04037b77c9f65aa7e4ce.png",
+    "static/media/CV-Majer.pdf": "/my_website_react/static/media/CV-Majer.d2d01cc52489a5655a04.pdf",
+    "static/media/my-photo-transparent.PNG": "/my_website_react/static/media/my-photo-transparent.6ef70cf832ba0e3487f2.PNG",
+    "static/media/serduszka-dwa.png": "/my_website_react/static/media/serduszka-dwa.2ea637ec611f54e4141f.png",
+    "static/media/me-about.jpeg": "/my_website_react/static/media/me-about.27e2052222f904635567.jpeg",
+    "index.html": "/my_website_react/index.html",
+    "main.a1c69b95.css.map": "/my_website_react/static/css/main.a1c69b95.css.map",
+    "main.1f1819a3.js.map": "/my_website_react/static/js/main.1f1819a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1c69b95.css",
+    "static/js/main.1f1819a3.js"
+  ]
+}
