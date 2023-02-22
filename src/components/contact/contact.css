@@ -54,3 +54,19 @@ input, textarea {
     color: var(--color-white);
 }
 
+/*      MEDIA QUERIES (MEDIUM DEVICES - TABLETS)      */
+
+@media screen and (max-width: 1024px) {
+    .container.contact__container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+}
+
+/*      MEDIA QUERIES (SMALL DEVICES - PHONES)      */
+
+@media screen and (max-width: 600px) {
+    .container.contact__container {
+        width: var(--container-width-sm);
+    }
+}
