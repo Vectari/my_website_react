@@ -1,5 +1,6 @@
 {
   "name": "my_website_react",
+  "homepage": "https://vectari.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
